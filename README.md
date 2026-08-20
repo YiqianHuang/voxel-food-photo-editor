@@ -13,7 +13,7 @@
 
 ### 可选：食物＋容器模式
 
-仅当用户明确说 **“餐具也游戏化”** 时启用。此时食物及其直接关联的容器／餐具可以一起重建成体素物体；没有这句明确要求时，所有容器和餐具必须保持真实。
+仅当用户明确说 **“餐具也像素化”** 时启用。此时食物及其直接关联的容器／餐具可以一起重建成体素物体；没有这句明确要求时，所有容器和餐具必须保持真实。
 
 ### 使用方式
 
@@ -34,7 +34,7 @@ By default, only food and drink contents are voxelized. Plates, bowls, cups, gla
 
 ### Optional food + vessels mode
 
-Enable this mode only when the user explicitly requests that the tableware be made game-like too. In that case, edible contents and their directly associated containers or tableware may be rebuilt as voxel objects. Without that explicit request, keep every vessel and utensil photorealistic.
+Enable this mode only when the user explicitly says **“voxelize the tableware too.”** In that case, edible contents and their directly associated containers or tableware may be rebuilt as voxel objects. Without that explicit request, keep every vessel and utensil photorealistic.
 
 ### Use
 

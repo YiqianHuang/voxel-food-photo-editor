@@ -34,7 +34,7 @@ Default to food-only voxelization:
 - For soup, noodles, rice, or food served in a vessel, voxelize the edible contents and keep the vessel real.
 - For drinks, voxelize the visible liquid, foam, ice, fruit, or garnish and keep the cup or glass real.
 - Keep steam, smoke, reflections, cast shadows, spills outside a vessel, and uncertain residue photorealistic unless the user explicitly requests otherwise.
-- Voxelize food containers or tableware only when the user explicitly asks for a food-and-vessels mode.
+- Voxelize food containers or tableware only when the user explicitly says “餐具也像素化” or “voxelize the tableware too.”
 
 ## Preprocessing
 
