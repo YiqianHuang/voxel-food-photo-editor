@@ -34,7 +34,7 @@ By default, only food and drink contents are voxelized. Plates, bowls, cups, gla
 
 ### Optional food + vessels mode
 
-Enable this mode only when the user explicitly says **“餐具也游戏化”** (“make the tableware game-like too”). In that case, edible contents and their directly associated containers or tableware may be rebuilt as voxel objects. Without that explicit request, keep every vessel and utensil photorealistic.
+Enable this mode only when the user explicitly requests that the tableware be made game-like too. In that case, edible contents and their directly associated containers or tableware may be rebuilt as voxel objects. Without that explicit request, keep every vessel and utensil photorealistic.
 
 ### Use
 
