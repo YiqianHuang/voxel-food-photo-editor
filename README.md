@@ -1,5 +1,7 @@
 # Voxel Food Photo Editor
 
+**Author / 作者:** [Yiqian Huang](https://github.com/YiqianHuang)
+
 ## 中文
 
 把食物或饮品照片做成「真实世界 × 像素体素食物」效果：只有可食用的内容变为能辨认的方块体素版本，其他部分保持真实。
@@ -17,7 +19,13 @@
 
 ### 使用方式
 
-把一张或多张食物照片交给 Codex，并要求使用 `$voxel-food-photo-editor`。它会处理每一张可读取图片，为每张图保存一份克制的预处理版本和一份最终体素版本。
+把本仓库放到 Codex skills 目录（Windows 下为 `%USERPROFILE%\.codex\skills\voxel-food-photo-editor`）：
+
+```bash
+git clone https://github.com/YiqianHuang/voxel-food-photo-editor.git ~/.codex/skills/voxel-food-photo-editor
+```
+
+然后把一张或多张食物照片交给 Codex，并要求使用 `$voxel-food-photo-editor`。它会处理每一张可读取图片，为每张图保存一份克制的预处理版本和一份最终体素版本。
 
 ---
 
@@ -38,7 +46,13 @@ Enable this mode only when the user explicitly says **“voxelize the tableware 
 
 ### Use
 
-Ask Codex to use `$voxel-food-photo-editor` with one or more food photographs. It processes every readable image supplied, saving a restrained preprocessed copy and one final voxel edit per image.
+Clone this repository into the Codex skills directory (on Windows: `%USERPROFILE%\.codex\skills\voxel-food-photo-editor`):
+
+```bash
+git clone https://github.com/YiqianHuang/voxel-food-photo-editor.git ~/.codex/skills/voxel-food-photo-editor
+```
+
+Then ask Codex to use `$voxel-food-photo-editor` with one or more food photographs. It processes every readable image supplied, saving a restrained preprocessed copy and one final voxel edit per image.
 
 ---
 

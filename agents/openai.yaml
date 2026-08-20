@@ -1,4 +1,4 @@
 interface:
   display_name: "Voxel Food Photo Editor"
-  short_description: "Pixelate only food while the real photo stays intact"
+  short_description: "Voxelize only food while the real photo stays intact"
   default_prompt: "Use $voxel-food-photo-editor to turn every supplied food photo into a food-only voxel edit."
